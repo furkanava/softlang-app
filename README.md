@@ -1,8 +1,9 @@
 <p align="center">
   <img src="ekrangoruntu/image.png" alt="logomuz" width="300" />
+  Logomuz
 </p>
 
-logo gelecek
+
 
 # Softlang(Software Language Learning)
 - [Giriş](#Giriş)
