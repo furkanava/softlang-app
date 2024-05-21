@@ -17,8 +17,8 @@
 
 Hoş geldiniz, yazılımcı adayları ve yazılım profesyonelleri! Softlang, sadece bir dil öğrenme uygulaması değil, yapay zekayla çalışan chatbot sayesinde speaking yeteneklerinizi geliştirmenize yardımcı olacak özel bir platformdur.
 
-# Kodlamanın Dili: İngilizce
-Yazılım dünyasında ilerlemek için, sadece kod yazmayı öğrenmek yeterli değil. İngilizce, dünyanın dört bir yanındaki yazılım geliştiricileriyle iletişim kurmanın anahtarıdır. CodeSpeak, bu iki önemli beceriyi bir araya getirerek size yazılımın dilini öğrenme fırsatı sunar.
+## Kodlamanın Dili: İngilizce
+Yazılım dünyasında ilerlemek için, sadece kod yazmayı öğrenmek yeterli değil. İngilizce, dünyanın dört bir yanındaki yazılım geliştiricileriyle iletişim kurmanın anahtarıdır. Softlang, bu iki önemli beceriyi bir araya getirerek size yazılımın dilini öğrenme fırsatı sunar.
 
 
 ## Özellikler
