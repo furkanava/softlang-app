@@ -1,5 +1,7 @@
 ![logo](ekrangoruntu/image.png)
-
+<p align="center">
+  <img src="ekrangoruntu/image.png" alt="logomuz" width="150" />
+</p>
 
 logo gelecek
 
@@ -39,7 +41,7 @@ Yazılım dünyasında ilerlemek için, sadece kod yazmayı öğrenmek yeterli d
 <p align="center">
   <img src="ekrangoruntu/login.png" alt="Login" width="150" />
   <img src="ekrangoruntu/alansecimi.png" alt="Alan Seçimi" width="150" />
-  <img src="ekrangoruntu/kartonyuzpng" alt="Kart Ön Yüz" width="150" />
+  <img src="ekrangoruntu/kartonyuz.png" alt="Kart Ön Yüz" width="150" />
   <img src="ekrangoruntu/kartarkayuz.png" alt="Kart Arka Yüz" width="150" />
   <img src="ekrangoruntu/videolar.png" alt="Videolar" width="150" />
   <img src="ekrangoruntu/ogrendiklerim.png" alt="Öğrendiklerim" width="150" />
