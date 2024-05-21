@@ -1,6 +1,5 @@
-![logo](ekrangoruntu/image.png)
 <p align="center">
-  <img src="ekrangoruntu/image.png" alt="logomuz" width="150" />
+  <img src="ekrangoruntu/image.png" alt="logomuz" width="200" />
 </p>
 
 logo gelecek
