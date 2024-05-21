@@ -8,10 +8,10 @@
 # Softlang(Software Language Learning)
 - [Giriş](#Giriş)
 - [Özellikler](#Özellikler)
-- [Ekran Görüntüleri](#Ekran Görüntüleri)
+- [Ekran Görüntüleri](#EkranGörüntüleri)
 - [Kurulum](#Kurulum)
 - [Kütüphaneler](#Kütüphaneler)
-- [Takım Üyeleri](#Takım Üyeleri)
+- [Takım Üyeleri](#TakımÜyeleri)
  ## Yazılımcılar İçin İngilizce Dil Öğrenme 
 
 
