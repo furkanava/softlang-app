@@ -1,4 +1,4 @@
-![logo](image.png)
+![logo](ekrangoruntu/image.png)
 
 
 logo gelecek
@@ -36,7 +36,7 @@ Yazılım dünyasında ilerlemek için, sadece kod yazmayı öğrenmek yeterli d
 ## Ekran Görüntüleri
 
 
-![alt text](login-1.png) ![alt text](alansecimi-1.png) ![alt text](kartonyuz-1.png) ![alt text](kartarkayuz-1.png) ![alt text](videolar-1.png) ![alt text](ogrendiklerim-1.png) ![alt text](bolumler-1.png) ![alt text](yapayzeka-1.png)
+![alt text](ekrangoruntu/login-1.png) ![alt text](ekrangoruntu/alansecimi-1.png) ![alt text](ekrangoruntu/kartonyuz-1.png) ![alt text](ekrangoruntu/kartarkayuz-1.png) ![alt text](ekrangoruntu/videolar-1.png) ![alt text](ekrangoruntu/ogrendiklerim-1.png) ![alt text](ekrangoruntu/bolumler-1.png) ![alt text](ekrangoruntu/yapayzeka-1.png)
 ## Kurulum
 
 ### 1. Depoyu klonlayın:
