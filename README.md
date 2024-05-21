@@ -36,7 +36,17 @@ Yazılım dünyasında ilerlemek için, sadece kod yazmayı öğrenmek yeterli d
 ## Ekran Görüntüleri
 
 
-![alt text](ekrangoruntu/login.png) ![alt text](ekrangoruntu/alansecimi.png) ![alt text](ekrangoruntu/kartonyuzpng) ![alt text](ekrangoruntu/kartarkayuz.png) ![alt text](ekrangoruntu/videolar.png) ![alt text](ekrangoruntu/ogrendiklerim.png) ![alt text](ekrangoruntu/bolumler.png) ![alt text](ekrangoruntu/yapayzeka.png)
+<p align="center">
+  <img src="ekrangoruntu/login.png" alt="Login" width="150" />
+  <img src="ekrangoruntu/alansecimi.png" alt="Alan Seçimi" width="150" />
+  <img src="ekrangoruntu/kartonyuzpng" alt="Kart Ön Yüz" width="150" />
+  <img src="ekrangoruntu/kartarkayuz.png" alt="Kart Arka Yüz" width="150" />
+  <img src="ekrangoruntu/videolar.png" alt="Videolar" width="150" />
+  <img src="ekrangoruntu/ogrendiklerim.png" alt="Öğrendiklerim" width="150" />
+  <img src="ekrangoruntu/bolumler.png" alt="Bölümler" width="150" />
+  <img src="ekrangoruntu/yapayzeka.png" alt="Yapay Zeka" width="150" />
+</p>
+
 ## Kurulum
 
 ### 1. Depoyu klonlayın:
