@@ -65,7 +65,3 @@ Sema Erakbıyık [@serakbiyik](https://github.com/serakbiyik) figma ui tasarım
 
 
 
-* Erdem Dayan
-* Furkan Kül
-* Kinda Muhyeddin
-* Sema Erakbıyık
